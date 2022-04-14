@@ -1,1 +1,1 @@
-# barcode Detector
+# Barcode Detector
